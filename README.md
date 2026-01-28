@@ -27,16 +27,13 @@ The objective of this project is to explore Spanish La Liga match data from 2019
 
 The dataset was obtained from Kaggle and covers six seasons (2019/20 to 2024/25).
 
-* 
-**Records**: 4,318 team-match records (2,159 unique fixtures).
+* Records: 4,318 team-match records (2,159 unique fixtures).
 
 
-* 
-**Teams**: 27 different La Liga teams.
+* Teams: 27 different La Liga teams.
 
 
-* 
-**Features**: Goals (gf/ga), expected goals (xG/xGA), possession, shots, venue, referee, and attendance.
+* Features: Goals (gf/ga), expected goals (xG/xGA), possession, shots, venue, referee, and attendance.
 
 
 
@@ -44,24 +41,19 @@ The dataset was obtained from Kaggle and covers six seasons (2019/20 to 2024/25)
 
 ## 3. Key Findings & Insights
 
-* 
-**Home Advantage**: Match outcomes are highly influenced by venue, with a 44.6% win rate at home versus 27.9% away.
+* Home Advantage: Match outcomes are highly influenced by venue, with a 44.6% win rate at home versus 27.9% away.
 
 
-* 
-**Top Team Performance**: Real Madrid maintained the highest win rate (67.6%) during the study period, followed by Barcelona (65.7%).
+* Top Team Performance: Real Madrid maintained the highest win rate (67.6%) during the study period, followed by Barcelona (65.7%).
 
 
-* 
-**Goal Correlation**: Expected Goals (xG) show a positive relationship () with actual goals scored.
+* Goal Correlation: Expected Goals (xG) show a positive relationship () with actual goals scored.
 
 
-* 
-**Attendance Trends**: Sunday matches recorded the highest average attendance at approximately 32,400.
+* Attendance Trends: Sunday matches recorded the highest average attendance at approximately 32,400.
 
 
-* 
-**Possession**: Winning teams averaged 51.2% possession, while losing teams averaged 48.8%, suggesting that pure possession is not the sole driver of victory.
+* Possession: Winning teams averaged 51.2% possession, while losing teams averaged 48.8%, suggesting that pure possession is not the sole driver of victory.
 
 
 
@@ -69,8 +61,7 @@ The dataset was obtained from Kaggle and covers six seasons (2019/20 to 2024/25)
 
 ## 4. Analysis Methodology
 
-1. 
-**Data Quality**: Addressed missing values in attendance (22.6%) and removed empty columns like 'notes'.
+1. **Data Quality**: Addressed missing values in attendance (22.6%) and removed empty columns like 'notes'.
 
 
 2. 
